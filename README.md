@@ -16,5 +16,5 @@ Technologies used:
 
 7.EJS - Templating engine used by Node.js.
 
---https://github.com/scodes98--
+https://github.com/scodes98
 
