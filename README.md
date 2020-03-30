@@ -15,3 +15,6 @@ Technologies used:
 6.Bcrypt - Hashing passwords
 
 7.EJS - Templating engine used by Node.js.
+
+# https://github.com/scodes98
+
